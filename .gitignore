@@ -40,3 +40,6 @@ unpackage/
 
 # TypeScript cache
 *.tsbuildinfo
+
+# File
+docs/
