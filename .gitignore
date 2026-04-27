@@ -43,3 +43,6 @@ unpackage/
 
 # File
 docs/
+
+# Agent文件
+AGENT.md
